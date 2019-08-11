@@ -1,0 +1,35 @@
+
+.bs {
+    height: 40px;
+    width: 45px;
+    background-color: blue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+
+}
+.initial{
+    border: none!important;
+    width: 100%;
+}
+#begin{
+    border: none!important;
+}
+table {
+    width: 400px;
+
+}
+tr {
+    margin: 0 auto;
+    height: 100px;
+}
+td {
+    border-top: 1px solid black !important;
+    border-left: 1px solid black !important;
+    height: 60px;
+    width: 60px;
+    padding: 0;
+}
+
+
